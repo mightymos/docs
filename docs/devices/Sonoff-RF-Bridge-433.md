@@ -2,8 +2,8 @@ The Sonoff RF Bridge has two separate chips to handle the Wi-Fi (ESP8285) and RF
 
 **Attention ⚠️️⚠️️⚠️️** There are now 3 versions of the `Sonoff RF Bridge 433`: the `R1` , `R2 V1.0` and `R2 V2.2`.
 
-Users reported limited success flashing Tasmota to `R2 V2.2`.  
-RF firmware [OB38S003](https://github.com/mightymos/RF-Bridge-OB38S003) is available as tested with simple protocol receiving, but is incomplete and requires flasher tool.
+A port of the original Portisch RF firmware is available for `R2 V2.2`.  
+RF firmware [OB38S003](https://github.com/mightymos/RF-Bridge-OB38S003) now supports most features of the original, but requires an external flashing tool.
 
 
 ## Flash Tasmota
